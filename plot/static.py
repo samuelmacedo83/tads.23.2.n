@@ -7,7 +7,7 @@ from plotnine import (
 )
 
 def plot_line(ticker:str) -> ggplot:
-    """ Plot a static plot using plotnine.
+    """ Plot an interactive 
 
     Args:
         ticker (str): The ticker of financial asset.
